@@ -1,1 +1,9 @@
+body {
+    background: url("Coaster_Guard.JPG");
+    //background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
 
+h1 {
+  color: white;
+}
